@@ -7,7 +7,7 @@ To get a local copy to your machine.
 Runs in the commandline
 ### Setup
 * Download or clone files from this repo.
-Repository link: [Quote](https://github.com/Eugene-Oluoch/Password-Locker)
+Repository link: [Password Locker](https://github.com/Eugene-Oluoch/Password-Locker)
 ### Developed with
 * Python
 ### BDD
